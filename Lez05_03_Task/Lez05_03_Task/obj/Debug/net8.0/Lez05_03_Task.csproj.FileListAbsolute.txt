@@ -1,0 +1,28 @@
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.exe
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.deps.json
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.runtimeconfig.json
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.pdb
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.AssemblyInfo.cs
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\refint\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.pdb
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.genruntimeconfig.cache
+C:\Users\utente\Desktop\Nuova cartella\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\ref\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.exe
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.deps.json
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.runtimeconfig.json
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\bin\Debug\net8.0\Lez05_03_Task.pdb
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.AssemblyInfo.cs
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\refint\Lez05_03_Task.dll
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.pdb
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\Lez05_03_Task.genruntimeconfig.cache
+C:\Users\utente\Desktop\Task\Lez05_03_Task\Lez05_03_Task\obj\Debug\net8.0\ref\Lez05_03_Task.dll
